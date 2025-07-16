@@ -6,12 +6,12 @@
 
 
 body {
-    background-color: aqua;
+    background-color: rgb(235, 235, 235);
 
 }
 
 main {
-    background-color: blueviolet;
+    background-color: rgb(235, 235, 235);
     width: 500px;
 
 }
